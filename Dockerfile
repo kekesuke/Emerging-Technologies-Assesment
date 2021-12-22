@@ -1,4 +1,5 @@
 # syntax=docker/dockerfile:1
+# A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.
 FROM python:3.7-alpine
 WORKDIR /code
 ENV FLASK_APP=app.py
