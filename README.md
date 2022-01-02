@@ -2,7 +2,9 @@
 ## What is this repository for ?
 ### (Machine learning algorithms & Quantum computing using Scikit Python Libraries)
 
-###### This repository contain an overview of what I have done for module that I am currently studying. The module is called Emerging-Technologies. The repository provides some insight of my work on [`Scikit-learn`](https://scikit-learn.org/) and `Quantum computing` (Machine learning algorithms & Quantum computing). Inside this repository you going to find few `Jupyter notebooks` which I created and worked upon. Few of tools I have used are: [`Pandas`](https://www.kaggle.com/learn/pandas) and [`Numpy`](https://numpy.org/doc/stable/index.html) they are required Libraries for Python visualization in order to show the examples of the algorithms I picked from `Scikit-Learn`.
+###### This repository contains an overview of what I have done for the module that I am currently studying. The module is called Emerging-Technologies. The repository provides some insights of my work on [`Scikit-learn`](https://scikit-learn.org/) and `Quantum computing` (Machine learning algorithms & Quantum computing). There is a  concise overview of the scikit-learn Python Libraries. Inside this repository you are going to find a few `Jupyter notebooks`, the main ones being: scikit-learn and quantum-deutsch which I created and worked on.
+- Few of the tools I used for the scikit-learn jupyter notebook are : [`Pandas`](https://www.kaggle.com/learn/pandas) and [`Numpy`](https://numpy.org/doc/stable/index.html). They are the required Libraries for Python data analysis and manipulation in order to show the examples of the algorithms I picked from `Scikit-Learn`.
+- The second notebook `quantum-deutsch` contains an overview of what Quantum computing is how it it is different from a classical computer, and how to simulate it using `Qiskit`.
 
 ### This project has two [Jupyter notebooks](https://jupyter.org/):
 1. [Scikit-learn](https://scikit-learn.org/)
